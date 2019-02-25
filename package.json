@@ -1,0 +1,15 @@
+{
+  "name": "popcorn",
+  "version": "1.0.0",
+  "description": "popcorn",
+  "author": "yann",
+  "private": true,
+  "scripts": {
+    "dev": "popcorn",
+    "generate": "popcorn generate"
+  },
+  "devDependencies": {
+    "popcorn-machine": "2.1.0"
+  },
+  "dependencies": {}
+}
