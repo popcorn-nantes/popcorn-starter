@@ -1,6 +1,6 @@
 # C'est quoi Popcorn 🍿 ?
 
-_Popcorn_ est une plateforme qui vous permet de trouver un·e développeur·e freelance en région nantaise **avec (vraiment) 0% de commission** pour tout le monde et sans intermédiaire.
+_Popcorn_ est une plateforme qui vous permet de trouver un·e développeur·e freelance {{MA_LOCALITE}} **avec (vraiment) 0% de commission** pour tout le monde et sans intermédiaire.
 
 Vous entrez directement en contact avec les freelances de votre choix : _Popcorn_ n'intervient pas dans les échanges qui suivent entre vous et les freelances.
 
