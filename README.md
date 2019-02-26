@@ -1,11 +1,11 @@
 # POPCORN 🍿
 
-_Popcorn_ est une plateforme open source et (vraiment) sans frais ni commission qui aide les développeur-e-s freelance de Nantes à trouver des projets : [Voir le site](https://popcorn-nantes.github.io/)
+_Popcorn_ est une plateforme open source et (vraiment) sans frais ni commission qui aide les développeur-e-s freelance de {{MA_LOCALITE}} à trouver des projets : [Voir le site](https://{{MON_POPCORN}}.github.io/)
 
 Les objectifs de _Popcorn_ pour les développeurs freelances :
 
-- 📈 Etre un canal pour trouver des affaires à Nantes sans commission ni intermédiaire
-- 📗 Open source : on maîtrise les fonctionnalités de la plateforme, tel que les résultats de recherche, les informations affichées par nos profils etc
+- 📈 Etre un canal pour trouver des affaires à {{MA_LOCALITE}} sans commission ni intermédiaire
+- 📗  Maitriser les fonctionnalités de la plateforme en contribuant à [la machine à Popcorn](https://github.com/popcorn-nantes/popcorn-machine).
 - 💬 Faire circuler les tuyaux boulot entre freelances via le tchat.
 - 💪 Offrir une alternative locale aux _market places_ de freelances centralisées
 
@@ -17,7 +17,7 @@ Les objectifs de _Popcorn_ pour les développeurs freelances :
 - Fait une _pull request_ avec pour titre _Nouveau profil : {ton prénom}_ .
 - Bienvenue sur _Popcorn_ ! ✨ Tu recevras également un mail pour t'inviter sur le tchat de _Popcorn_.
 
-Pour soumettre une suggestion, signaler un bug, demander de l'aide, tu peux aussi tout simplement [ouvrir une issue sur ce repo](https://github.com/popcorn-nantes/popcorn-nantes/issues/new)
+Pour soumettre une suggestion, signaler un bug, demander de l'aide, tu peux aussi tout simplement [ouvrir une issue sur ce repo](https://github.com/{{MON_POPCORN}}/{{MON_POPCORN}}/issues/new)
 
 ## FAQ
 

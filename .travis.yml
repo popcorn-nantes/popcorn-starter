@@ -19,7 +19,7 @@ script:
 deploy:
   provider: pages
   local-dir: dist
-  repo: popcorn-example/popcorn-example.github.io
+  repo: {{MON_POPCORN}}/{{MON_POPCORN}}.github.io
   target-branch: master
   skip-cleanup: true
   github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable

@@ -6,7 +6,7 @@ Vous entrez directement en contact avec les freelances de votre choix : _Popcorn
 
 ## Pourquoi c'est gratuit ?
 
-Puisque que nous sommes développeurs, nous développons et maintenons nous-même cette plateforme (qui est [opensource](https://github.com/popcorn-nantes/popcorn-nantes)). La valeur ajoutée pour nous, ce sont les projets trouvés par le biais du site et le fait de pouvoir entrer en contact avec vous sans commission ni intermédiaire.
+Puisque que nous sommes développeurs, nous développons et maintenons nous-même cette plateforme (qui est [opensource](https://github.com/{{MON_POPCORN}}/{{MON_POPCORN}})). La valeur ajoutée pour nous, ce sont les projets trouvés par le biais du site et le fait de pouvoir entrer en contact avec vous sans commission ni intermédiaire.
 
 Par ailleurs, puisque _Popcorn_ vous permet de contacter les freelances directement et n'intervient pas dans les échanges qui suivent, il n'y a pas de travail ni de frais liés à la mise en relation.
 
