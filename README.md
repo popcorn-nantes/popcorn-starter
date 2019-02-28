@@ -24,7 +24,7 @@ Pour soumettre une suggestion, signaler un bug, demander de l'aide, tu peux auss
 ### Quelle est la différence avec des plateformes comme Malt ou Comet ?
 
 - _Popcorn_ est une [association à but non-lucratif](https://opencollective.com/popcorn) et ne prélève pas de commission.
-- _Popcorn_ est réservé aux **développeur·e·s de la {{MA_LOCALITE}}**.
+- _Popcorn_ est réservé aux **développeur·e·s de {{MA_LOCALITE}}**.
 - _Popcorn_ est développé et maintenu par les développeur(e)s freelances eux-mêmes.
 - _Popcorn_ n'est **pas** un intermédiaire ou une entreprise: les clients entrent directement en contact avec les freelances. _Popcorn_ ne joue aucun rôle dans les échanges qui suivent ensuite entre les deux parties.
 
