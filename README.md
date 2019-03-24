@@ -54,7 +54,16 @@ npm run generate
 
 ### Déployer
 
-1. merger la branche `master` dans la branche `published`
-2. `git push`
+#### Configurer le repo
+
+C'est la CI de travis qui s'occupe de publier le contenu statique généré sur le repo popcorn-{localite}.github.io (qu'il faut initialiser au préalable)
+
+1. Générer un token sur github pour le dépot avec le droit de publish et de public_repo
+2. Renseigner le token dans les settings de travis en ajoutant la variable d'environnement GITHUB_TOKEN récupérée à l'étape 1
+
+#### Ajouter du contenu
+
+3. merger la branche `master` dans la branche `published`
+4. `git push`
 
 Le déploiement du site est déclenché automatiquement par _Travis_ lors d'un _push_ sur la branche `published`. Il peut prendre quelques minutes avant d'être visible en production.
